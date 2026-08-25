@@ -1,5 +1,13 @@
 # effect
 
+## 4.0.0-rc.113
+
+### Patch Changes
+
+- [#7443](https://github.com/Effect-TS/effect/pull/7443) [`fa6a56b`](https://github.com/Effect-TS/effect/commit/fa6a56b862229cfb699e076bac50e3b737ae3c72) Thanks @youngspe! - Terminate the `Stream.fromEventListener` stream after one item if `once: true`.
+
+- [#7443](https://github.com/Effect-TS/effect/pull/7443) [`fa6a56b`](https://github.com/Effect-TS/effect/commit/fa6a56b862229cfb699e076bac50e3b737ae3c72) Thanks @youngspe! - Loosen Stream.addEventListener type parameter
+
 ## 4.0.0-rc.112
 
 ### Minor Changes

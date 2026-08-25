@@ -1,5 +1,12 @@
 # @effect/sql-pglite
 
+## 4.0.0-rc.113
+
+### Patch Changes
+
+- Updated dependencies [[`fa6a56b`](https://github.com/Effect-TS/effect/commit/fa6a56b862229cfb699e076bac50e3b737ae3c72), [`fa6a56b`](https://github.com/Effect-TS/effect/commit/fa6a56b862229cfb699e076bac50e3b737ae3c72)]:
+  - effect@4.0.0-rc.113
+
 ## 4.0.0-rc.112
 
 ### Patch Changes
